@@ -1,5 +1,5 @@
 package lab10;
-import lab7.Student;
+import ro.ulbs.proiectaresoftware.students.Student;
 
 import java.util.Arrays;
 import java.util.List;

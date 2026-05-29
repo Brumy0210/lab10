@@ -1,4 +1,4 @@
-package lab7;
+package ro.ulbs.proiectaresoftware.students;
 
 public  class Student {
     private String name;

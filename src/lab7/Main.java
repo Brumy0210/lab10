@@ -1,5 +1,7 @@
 package lab7;
 
+import ro.ulbs.proiectaresoftware.students.Student;
+
 import java.util.ArrayList;
 import java.util.List;
 

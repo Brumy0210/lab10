@@ -1,8 +1,6 @@
 
 package ro.ulbs.proiectaresoftware.students;
 
-import lab7.Student;
-
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
